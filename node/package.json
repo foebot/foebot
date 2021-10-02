@@ -1,0 +1,11 @@
+{
+  "name": "foe-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "anyproxy": "^4.1.3",
+    "merge": "^1.2.1",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.4",
+    "socket.io": "^2.3.0"
+  }
+}
